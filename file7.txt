@@ -1,4 +1,4 @@
 function worldrecord()
 {
-	console.log("testing sample for git");
+	console.log("testing sample for github");
 }
