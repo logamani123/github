@@ -23,3 +23,14 @@ function add()
 	
 	return c;	
 }
+3.fuction is added
+function add()
+{
+	var a=5;
+	var b=20;
+	var c=0;
+	
+	c=a+b;
+	
+	return c;	
+}
