@@ -1,0 +1,10 @@
+function add()
+{
+	var a=5;
+	var b=20;
+	var c=0;
+	
+	c=a+b;
+	
+	return c;	
+}

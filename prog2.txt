@@ -1,3 +1,9 @@
+function Cricket(){
+	const stoke = () => {
+		alert("new cricket ground");
+	}
+}
+
 function Football() {
   const shoot = () => {
     alert("Great Shot!");
