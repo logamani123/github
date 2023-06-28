@@ -1,9 +1,11 @@
-hai
+
 function helloworld()
 {
-	console.log("testing sample for git");
+	console.log("testing sample for logu");
 }
+
 hello 
 well come 
 file7 is added
 file8 is added to this commit
+file4 modified

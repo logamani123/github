@@ -1,4 +1,4 @@
 function newworldrecord()
 {
-	console.log("newworldrecord testing sample for git");
+	console.log("newworldrecord testing sample for github");
 }
