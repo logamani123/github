@@ -1,7 +1,5 @@
-hai
+
 function helloworld()
 {
-	console.log("testing sample for git");
+	console.log("testing sample for logu");
 }
-hello 
-well come 
