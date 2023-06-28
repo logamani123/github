@@ -2,9 +2,9 @@ function add()
 {
 	var a=5;
 	var b=20;
-	var c=0;
+	var c=25;
 	
-	c=a+b;
+	c=a+b+c;
 	
 	return c;	
 }
