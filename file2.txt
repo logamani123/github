@@ -1,3 +1,7 @@
 hai
+function helloworld()
+{
+	console.log("testing sample for git");
+}
 hello 
 well come 
