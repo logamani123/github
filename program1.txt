@@ -1,4 +1,4 @@
-function Football() {
+1.function Football() {
   const shoot = () => {
     alert("Great Shot!");
   }
@@ -11,3 +11,15 @@ function Football() {
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(<Football />);
 
+2.function Football() {
+  const shoot = () => {
+    alert("Great Shot!");
+  }
+
+  return (
+    <button onClick={shoot}>Take the shot!</button>
+  );
+}
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(<Football />);
