@@ -1,0 +1,23 @@
+//this is ajith
+//this is logu
+//this is files ok 
+testing
+new check
+New language
+New programming
+first file
+this is to crosscheck
+working hour
+function Football() {
+  const shoot = () => {
+    alert("Great Shot!");
+  }
+
+  return (
+    <button onClick={shoot}>Take the shot!</button>
+  );
+}
+
+const root = ReactDOM.createRoot(document.getElementById('root'));
+root.render(<Football />);
+
